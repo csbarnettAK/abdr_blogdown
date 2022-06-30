@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: Alaska Birth Defects Registry
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -17,9 +17,7 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://github.com/csbarnettAK/abdr_blogdown
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -32,10 +30,10 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+    alt: State of Alaska, Department of Health and Human Services, Division of Public Health
+    height: 80
+    url: ABDR_csr.png
+    width: 180
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
